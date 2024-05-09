@@ -23,7 +23,6 @@ Resources:
       Handler: app.lambda_handler
       Runtime: python3.8
       Architectures:
-      - x86_64
       - arm64
       Events:
         Sudoku:
