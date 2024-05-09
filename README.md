@@ -1,2 +1,9 @@
 # lambdoku
-Sudoku as a serverless application on AWS Lambda
+Sudoku como una aplicacion serverless en AWS Lambda
+
+Puedes probarla aqui.
+
+## Como ejecutar en local (CLI)
+```shell
+python3 main.py
+```
